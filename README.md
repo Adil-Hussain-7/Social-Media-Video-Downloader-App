@@ -16,11 +16,13 @@ _Install required dependencies_: Make sure to have Python installed, then run:<b
 _License_:<br />
   * **This project is licensed under the MIT License. See the LICENSE file for details**
 
+_Here's The Download Link_:
+  * **https://drive.google.com/file/d/1jqcnIL9X8m0r5r6fmSKGVNCpaOAefXxh/view?usp=sharing** 
+
 _Note_:
   * **Add the assets and font folders to the same main.py directory.**
 
-_Here's The Download Link_:
-  * **https://drive.google.com/file/d/1jqcnIL9X8m0r5r6fmSKGVNCpaOAefXxh/view?usp=sharing** 
+
 
 _Contact_: <br />
 **Name**: Adil Hussain <br />
